@@ -1,0 +1,532 @@
+{
+    "blocks": {
+        "audio": {
+            "gAudioEditor": {
+                "DisableNaviCallAudio": 0,
+                "EnemyBGMDisable": 0,
+                "Excluded": null,
+                "ExperimentalOctaveDrop": 1,
+                "LostWoodsConsistentVolume": 1,
+                "Playing": 221,
+                "ReplacedSequences": {
+                    "NA_BGM_ADULT_LINK": {
+                        "locked": 0,
+                        "value": 170
+                    },
+                    "NA_BGM_APPEAR": {
+                        "locked": 0,
+                        "value": 159
+                    },
+                    "NA_BGM_BOSS": {
+                        "locked": 0,
+                        "value": 180
+                    },
+                    "NA_BGM_BOSS_CLEAR": {
+                        "locked": 0,
+                        "value": 147
+                    },
+                    "NA_BGM_BRIDGE_TO_GANONS": {
+                        "locked": 0,
+                        "value": 175
+                    },
+                    "NA_BGM_CHAMBER_OF_SAGES": {
+                        "locked": 0,
+                        "value": 172
+                    },
+                    "NA_BGM_COURTYARD": {
+                        "locked": 0,
+                        "value": 121
+                    },
+                    "NA_BGM_DEKU_TREE_CS": {
+                        "locked": 0,
+                        "value": 166
+                    },
+                    "NA_BGM_DOOR_OF_TIME": {
+                        "locked": 0,
+                        "value": 173
+                    },
+                    "NA_BGM_DUNGEON": {
+                        "locked": 0,
+                        "value": 111
+                    },
+                    "NA_BGM_ENEMY": {
+                        "locked": 0,
+                        "value": 179
+                    },
+                    "NA_BGM_ESCAPE": {
+                        "locked": 0,
+                        "value": 177
+                    },
+                    "NA_BGM_EVENT_CLEAR": {
+                        "locked": 0,
+                        "value": 155
+                    },
+                    "NA_BGM_FIELD_LOGIC": {
+                        "locked": 0,
+                        "value": 110
+                    },
+                    "NA_BGM_FIELD_MORNING": {
+                        "locked": 0,
+                        "value": 152
+                    },
+                    "NA_BGM_FILE_SELECT": {
+                        "locked": 0,
+                        "value": 139
+                    },
+                    "NA_BGM_FIRE_BOSS": {
+                        "locked": 0,
+                        "value": 184
+                    },
+                    "NA_BGM_FIRE_TEMPLE": {
+                        "locked": 0,
+                        "value": 119
+                    },
+                    "NA_BGM_FOREST_TEMPLE": {
+                        "locked": 0,
+                        "value": 120
+                    },
+                    "NA_BGM_GAME_OVER": {
+                        "locked": 0,
+                        "value": 146
+                    },
+                    "NA_BGM_GANONDORF_BOSS": {
+                        "locked": 0,
+                        "value": 182
+                    },
+                    "NA_BGM_GANON_BOSS": {
+                        "locked": 0,
+                        "value": 183
+                    },
+                    "NA_BGM_GANON_TOWER": {
+                        "locked": 0,
+                        "value": 122
+                    },
+                    "NA_BGM_GERUDO_VALLEY": {
+                        "locked": 0,
+                        "value": 143
+                    },
+                    "NA_BGM_GORON_CITY": {
+                        "locked": 0,
+                        "value": 124
+                    },
+                    "NA_BGM_GREAT_FAIRY": {
+                        "locked": 0,
+                        "value": 162
+                    },
+                    "NA_BGM_HEART_GET": {
+                        "locked": 0,
+                        "value": 150
+                    },
+                    "NA_BGM_HORSE": {
+                        "locked": 0,
+                        "value": 164
+                    },
+                    "NA_BGM_HORSE_GOAL": {
+                        "locked": 0,
+                        "value": 157
+                    },
+                    "NA_BGM_HYRULE_CS": {
+                        "locked": 0,
+                        "value": 167
+                    },
+                    "NA_BGM_ICE_CAVERN": {
+                        "locked": 0,
+                        "value": 140
+                    },
+                    "NA_BGM_INGO": {
+                        "locked": 0,
+                        "value": 129
+                    },
+                    "NA_BGM_INSIDE_DEKU_TREE": {
+                        "locked": 0,
+                        "value": 113
+                    },
+                    "NA_BGM_INTRO_GANON": {
+                        "locked": 0,
+                        "value": 171
+                    },
+                    "NA_BGM_ITEM_GET": {
+                        "locked": 0,
+                        "value": 148
+                    },
+                    "NA_BGM_JABU_JABU": {
+                        "locked": 0,
+                        "value": 117
+                    },
+                    "NA_BGM_KAKARIKO_ADULT": {
+                        "locked": 0,
+                        "value": 112
+                    },
+                    "NA_BGM_KAKARIKO_KID": {
+                        "locked": 0,
+                        "value": 118
+                    },
+                    "NA_BGM_KOKIRI": {
+                        "locked": 0,
+                        "value": 126
+                    },
+                    "NA_BGM_KOTAKE_KOUME": {
+                        "locked": 0,
+                        "value": 176
+                    },
+                    "NA_BGM_LINK_HOUSE": {
+                        "locked": 0,
+                        "value": 116
+                    },
+                    "NA_BGM_LONLON": {
+                        "locked": 0,
+                        "value": 123
+                    },
+                    "NA_BGM_MARKET": {
+                        "locked": 0,
+                        "value": 114
+                    },
+                    "NA_BGM_MASTER_SWORD": {
+                        "locked": 0,
+                        "value": 160
+                    },
+                    "NA_BGM_MEDALLION_GET": {
+                        "locked": 0,
+                        "value": 158
+                    },
+                    "NA_BGM_MINI_BOSS": {
+                        "locked": 0,
+                        "value": 181
+                    },
+                    "NA_BGM_MINI_GAME": {
+                        "locked": 0,
+                        "value": 168
+                    },
+                    "NA_BGM_NAVI_OPENING": {
+                        "locked": 0,
+                        "value": 165
+                    },
+                    "NA_BGM_OCARINA_OF_TIME": {
+                        "locked": 0,
+						"value": 185
+                    },
+                    "NA_BGM_OCA_BOLERO": {
+                        "locked": 0,
+						"value": 191
+                    },
+                    "NA_BGM_OCA_EPONA": {
+                        "locked": 0,
+						"value": 197
+                    },
+                    "NA_BGM_OCA_FAIRY_GET": {
+                        "locked": 0,
+                        "value": 156
+                    },
+                    "NA_BGM_OCA_LIGHT": {
+                        "locked": 0,
+						"value": 190
+                    },
+                    "NA_BGM_OCA_MINUET": {
+                        "locked": 0,
+						"value": 192
+                    },
+                    "NA_BGM_OCA_NOCTURNE": {
+                        "locked": 0,
+						"value": 195
+                    },
+                    "NA_BGM_OCA_REQUIEM": {
+                        "locked": 0,
+						"value": 194
+                    },
+                    "NA_BGM_OCA_SARIA": {
+                        "locked": 0,
+						"value": 196
+                    },
+                    "NA_BGM_OCA_SERENADE": {
+                        "locked": 0,
+						"value": 193
+                    },
+                    "NA_BGM_OCA_STORM": {
+                        "locked": 0,
+						"value": 203
+                    },
+                    "NA_BGM_OCA_SUNS": {
+                        "locked": 0,
+						"value": 199
+                    },
+                    "NA_BGM_OCA_TIME": {
+                        "locked": 0,
+						"value": 202
+                    },
+                    "NA_BGM_OCA_ZELDA": {
+                        "locked": 0,
+                        "value": 198
+                    },
+                    "NA_BGM_OPENING_GANON": {
+                        "locked": 0,
+                        "value": 149
+                    },
+                    "NA_BGM_OPEN_TRE_BOX": {
+                        "locked": 0,
+                        "value": 151
+                    },
+                    "NA_BGM_OWL": {
+                        "locked": 0,
+                        "value": 174
+                    },
+                    "NA_BGM_POTION_SHOP": {
+                        "locked": 0,
+                        "value": 144
+                    },
+                    "NA_BGM_SARIA_THEME": {
+                        "locked": 0,
+                        "value": 127
+                    },
+                    "NA_BGM_SEAL_OF_SAGES": {
+                        "locked": 0,
+                        "value": 161
+                    },
+                    "NA_BGM_SHADOW_TEMPLE": {
+                        "locked": 0,
+                        "value": 141
+                    },
+                    "NA_BGM_SHEIK": {
+                        "locked": 0,
+                        "value": 169
+                    },
+                    "NA_BGM_SHOP": {
+                        "locked": 0,
+                        "value": 138
+                    },
+                    "NA_BGM_SMALL_ITEM_GET": {
+                        "locked": 0,
+                        "value": 154
+                    },
+                    "NA_BGM_SPIRITUAL_STONE": {
+                        "locked": 0,
+                        "value": 153
+                    },
+                    "NA_BGM_SPIRIT_TEMPLE": {
+                        "locked": 0,
+                        "value": 128
+                    },
+                    "NA_BGM_STAFF_1": {
+                        "locked": 0,
+						"value": 186
+                    },
+                    "NA_BGM_STAFF_2": {
+                        "locked": 0,
+						"value": 187
+                    },
+                    "NA_BGM_STAFF_3": {
+                        "locked": 0,
+						"value": 188
+                    },
+                    "NA_BGM_STAFF_4": {
+                        "locked": 0,
+						"value": 189
+                    },
+                    "NA_BGM_TEMPLE_OF_TIME": {
+                        "locked": 0,
+                        "value": 125
+                    },
+                    "NA_BGM_TIMED_MINI_GAME": {
+                        "locked": 0,
+                        "value": 178
+                    },
+                    "NA_BGM_TITLE": {
+                        "locked": 0,
+                        "value": 115
+                    },
+                    "NA_BGM_UNDERGROUND": {
+                        "locked": 0,
+                        "value": 145
+                    },
+                    "NA_BGM_WATER_TEMPLE": {
+                        "locked": 0,
+                        "value": 142
+                    },
+                    "NA_BGM_WINDMILL": {
+                        "locked": 0,
+                        "value": 136
+                    },
+                    "NA_BGM_ZELDA_THEME": {
+                        "locked": 0,
+                        "value": 163
+                    },
+                    "NA_BGM_ZORA_DOMAIN": {
+                        "locked": 0,
+                        "value": 137
+                    },
+                    "NA_SE_EN_AMOS_VOICE": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_AWA_BOUND": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_AWA_BREAK": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_BUBLE_LAUGH": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_DEKU_JR_MOUTH": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_FANTOM_ST_LAUGH": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_FLAME_DAMAGE": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_FLAME_LAUGH": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_GANON_AT_RETURN": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_GOLON_WAKE_UP": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_GOMA_JR_CRY": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_IRONNACK_SWING_AXE": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_KAICHO_CRY": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_NUTS_FAINT": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_NUTS_THROW": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_NUTS_UP": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_REDEAD_AIM": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_REDEAD_CRY": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_SHADEST_TAIKO_HIGH": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_SHADEST_TAIKO_LOW": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_SHELL_MOUTH": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_STALKID_ATTACK": {
+                        "locked": 0
+                    },
+                    "NA_SE_EN_STALTU_DAMAGE": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_BOTTLE_CAP_OPEN": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_BRIDGE_OPEN_STOP": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_CHICKEN_CRY_A": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_CHICKEN_CRY_M": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_CHICKEN_CRY_N": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_COW_CRY": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_DOG_CRY_EVENING": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_FIVE_COUNT_LUPY": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_FOOT_SWITCH": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_FROG_CRY_0": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_HORSE_RUN": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_LIGHTNING": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_PLANT_BROKEN": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_POT_BROKEN": {
+                        "locked": 0
+                    },
+                    "NA_SE_EV_SMALL_DOG_BARK": {
+                        "locked": 0
+                    },
+                    "NA_SE_IT_BOMB_EXPLOSION": {
+                        "locked": 0
+                    },
+                    "NA_SE_IT_BOW_FLICK": {
+                        "locked": 0
+                    },
+                    "NA_SE_IT_HAMMER_HIT": {
+                        "locked": 0
+                    },
+                    "NA_SE_IT_WALL_HIT_SOFT": {
+                        "locked": 0
+                    },
+                    "NA_SE_OC_ABYSS": {
+                        "locked": 0
+                    },
+                    "NA_SE_PL_WALK_HEAVYBOOTS": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_CARROT_RECOVER": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_FSEL_CLOSE": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_FSEL_CURSOR": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_FSEL_DECIDE_L": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_GET_RUPY": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_HITPOINT_ALARM": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_HP_RECOVER": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_KINSTA_MARK_APPEAR": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_LOCK_ON": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_LOCK_ON_HUMAN": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_METRONOME": {
+                        "locked": 0
+                    },
+                    "NA_SE_SY_START_SHOT": {
+                        "locked": 0
+                    }
+                },
+                "SeqNameNotification": 1,
+                "SeqNameNotificationDuration": 10
+            }
+        }
+    },
+    "fileType": 2,
+    "presetName": "Beatles"
+}
