@@ -1,0 +1,272 @@
+{
+    "blocks": {
+        "audio": {
+            "gAudioEditor": {
+                "LostWoodsConsistentVolume": 1,
+                "Playing": 182,
+                "ReplacedSequences": {
+                    "NA_BGM_ADULT_LINK": {
+                        "value": 199
+                    },
+                    "NA_BGM_APPEAR": {
+                        "value": 125
+                    },
+                    "NA_BGM_BOSS": {
+                        "value": 112
+                    },
+                    "NA_BGM_BOSS_CLEAR": {
+                        "value": 113
+                    },
+                    "NA_BGM_BRIDGE_TO_GANONS": {
+                        "value": 142
+                    },
+                    "NA_BGM_CHAMBER_OF_SAGES": {
+                        "value": 114
+                    },
+                    "NA_BGM_COURTYARD": {
+                        "value": 116
+                    },
+                    "NA_BGM_DEKU_TREE_CS": {
+                        "value": 117
+                    },
+                    "NA_BGM_DOOR_OF_TIME": {
+                        "value": 119
+                    },
+                    "NA_BGM_DUNGEON": {
+                        "value": 118
+                    },
+                    "NA_BGM_ENEMY": {
+                        "value": 110
+                    },
+                    "NA_BGM_ESCAPE": {
+                        "value": 127
+                    },
+                    "NA_BGM_EVENT_CLEAR": {
+                        "value": 128
+                    },
+                    "NA_BGM_FIELD_LOGIC": {
+                        "value": 155
+                    },
+                    "NA_BGM_FIELD_MORNING": {
+                        "value": 178
+                    },
+                    "NA_BGM_FILE_SELECT": {
+                        "value": 136
+                    },
+                    "NA_BGM_FIRE_BOSS": {
+                        "value": 164
+                    },
+                    "NA_BGM_FIRE_TEMPLE": {
+                        "value": 139
+                    },
+                    "NA_BGM_FOREST_TEMPLE": {
+                        "value": 140
+                    },
+                    "NA_BGM_GAME_OVER": {
+                        "value": 141
+                    },
+                    "NA_BGM_GANONDORF_BOSS": {
+                        "value": 144
+                    },
+                    "NA_BGM_GANON_BOSS": {
+                        "value": 138
+                    },
+                    "NA_BGM_GANON_TOWER": {
+                        "value": 145
+                    },
+                    "NA_BGM_GERUDO_VALLEY": {
+                        "value": 146
+                    },
+                    "NA_BGM_GORON_CITY": {
+                        "value": 151
+                    },
+                    "NA_BGM_GREAT_FAIRY": {
+                        "value": 136
+                    },
+                    "NA_BGM_HEART_GET": {
+                        "value": 147
+                    },
+                    "NA_BGM_HORSE": {
+                        "value": 152
+                    },
+                    "NA_BGM_HORSE_GOAL": {
+                        "value": 153
+                    },
+                    "NA_BGM_HYRULE_CS": {
+                        "value": 167
+                    },
+                    "NA_BGM_ICE_CAVERN": {
+                        "value": 156
+                    },
+                    "NA_BGM_INGO": {
+                        "value": 157
+                    },
+                    "NA_BGM_INSIDE_DEKU_TREE": {
+                        "value": 159
+                    },
+                    "NA_BGM_INTRO_GANON": {
+                        "value": 145
+                    },
+                    "NA_BGM_ITEM_GET": {
+                        "value": 148
+                    },
+                    "NA_BGM_JABU_JABU": {
+                        "value": 160
+                    },
+                    "NA_BGM_KAKARIKO_ADULT": {
+                        "value": 162
+                    },
+                    "NA_BGM_KAKARIKO_KID": {
+                        "value": 163
+                    },
+                    "NA_BGM_KOKIRI": {
+                        "value": 165
+                    },
+                    "NA_BGM_KOTAKE_KOUME": {
+                        "value": 166
+                    },
+                    "NA_BGM_LINK_HOUSE": {
+                        "value": 154
+                    },
+                    "NA_BGM_LONLON": {
+                        "value": 168
+                    },
+                    "NA_BGM_MARKET": {
+                        "value": 171
+                    },
+                    "NA_BGM_MASTER_SWORD": {
+                        "value": 172
+                    },
+                    "NA_BGM_MEDALLION_GET": {
+                        "value": 173
+                    },
+                    "NA_BGM_MINI_BOSS": {
+                        "value": 175
+                    },
+                    "NA_BGM_MINI_GAME": {
+                        "value": 189
+                    },
+                    "NA_BGM_NAVI_OPENING": {
+                        "value": 129
+                    },
+                    "NA_BGM_OCARINA_OF_TIME": {
+                        "value": 180
+                    },
+                    "NA_BGM_OCA_FAIRY_GET": {
+                        "value": 137
+                    },
+                    "NA_BGM_OPENING_GANON": {
+                        "value": 124
+                    },
+                    "NA_BGM_OPEN_TRE_BOX": {
+                        "value": 115
+                    },
+                    "NA_BGM_OWL": {
+                        "value": 161
+                    },
+                    "NA_BGM_POTION_SHOP": {
+                        "value": 181
+                    },
+                    "NA_BGM_SARIA_THEME": {
+                        "value": 169
+                    },
+                    "NA_BGM_SEAL_OF_SAGES": {
+                        "value": 185
+                    },
+                    "NA_BGM_SHADOW_TEMPLE": {
+                        "value": 187
+                    },
+                    "NA_BGM_SHEIK": {
+                        "value": 188
+                    },
+                    "NA_BGM_SHOP": {
+                        "value": 190
+                    },
+                    "NA_BGM_SMALL_ITEM_GET": {
+                        "value": 149
+                    },
+                    "NA_BGM_SPIRITUAL_STONE": {
+                        "value": 150
+                    },
+                    "NA_BGM_SPIRIT_TEMPLE": {
+                        "value": 194
+                    },
+                    "NA_BGM_TEMPLE_OF_TIME": {
+                        "value": 196
+                    },
+                    "NA_BGM_TIMED_MINI_GAME": {
+                        "value": 176
+                    },
+                    "NA_BGM_TITLE": {
+                        "value": 170
+                    },
+                    "NA_BGM_UNDERGROUND": {
+                        "value": 143
+                    },
+                    "NA_BGM_WATER_TEMPLE": {
+                        "value": 197
+                    },
+                    "NA_BGM_WINDMILL": {
+                        "value": 192
+                    },
+                    "NA_BGM_ZELDA_THEME": {
+                        "value": 199
+                    },
+                    "NA_BGM_ZORA_DOMAIN": {
+                        "value": 200
+                    },
+                    "NA_BGM_OCA_BOLERO": {
+                        "value": 111
+                    },
+                    "NA_BGM_OCA_EPONA": {
+                        "value": 126
+                    },
+                    "NA_BGM_OCA_LIGHT": {
+                        "value": 182
+                    },
+                    "NA_BGM_OCA_MINUET": {
+                        "value": 177
+                    },
+                    "NA_BGM_OCA_NOCTURNE": {
+                        "value": 179
+                    },
+                    "NA_BGM_OCA_REQUIEM": {
+                        "value": 183
+                    },
+                    "NA_BGM_OCA_SARIA": {
+                        "value": 184
+                    },
+                    "NA_BGM_OCA_SERENADE": {
+                        "value": 186
+                    },
+                    "NA_BGM_OCA_STORM": {
+                        "value": 191
+                    },
+                    "NA_BGM_OCA_SUNS": {
+                        "value": 195
+                    },
+                    "NA_BGM_OCA_TIME": {
+                        "value": 193
+                    },
+                    "NA_BGM_OCA_ZELDA": {
+                        "value": 198
+                    },
+                    "NA_BGM_STAFF_1": {
+                        "value": 120
+                    },
+                    "NA_BGM_STAFF_2": {
+                        "value": 121
+                    },
+                    "NA_BGM_STAFF_3": {
+                        "value": 122
+                    },
+                    "NA_BGM_STAFF_4": {
+                        "value": 123
+                    }
+                }
+            }
+        }
+    },
+    "fileType": 2,
+    "presetName": "BEATULS"
+}
