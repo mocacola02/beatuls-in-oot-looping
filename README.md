@@ -1,7 +1,7 @@
 # "Beatles in Ocarina of Time" Custom Tracks
 A custom music pack of the "Beatles in Ocarina of Time" soundtrack for Ship of Harkinian.
 
-This is a customized version I made that makes all tracks (except one shot fanfare songs) loop so there the song "never ends."
+This is a customized version I made that makes all tracks (except one shot fanfare songs) loop so there the song "never ends." Credit to SeedyZ for the inspiration.
 
 ## Installation
 Place the "mods" and "presets" folders into your Ship of Harkinian directory to merge them with your existing folders. This will put the o2r file in your Ship of Harkinian mods folder, and the Beatles in Ocarina of Time json file in your presets folder.
